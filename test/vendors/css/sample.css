@@ -18,18 +18,9 @@
 } */
 .left{
   float:left;
-  width: auto;
-}
-.right{
-  float:right;
-}
-.clearfix:after {
-  display: block;
-  clear: both;
 }
 .logo_image{
   width: 110px;
-  float: left;
   margin: 0;
 }
 ul {
